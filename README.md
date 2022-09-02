@@ -1,4 +1,4 @@
-# karpov_course_projects
+# Karpov_Courses_first_project
 ## Проект e-commerce: вариант 1
 
 1) Сколько у нас пользователей, которые совершили покупку только один раз?
