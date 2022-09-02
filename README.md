@@ -1,1 +1,1 @@
-# karpov_course
+# karpov_course_projects
